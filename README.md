@@ -41,4 +41,4 @@ Portuguese Foundation for Science and Technology
 
 NOVA LINCS, NOVA School of Science and Technology
 
-CNA, Centro de Matemática e Aplicações, NOVA School of Science and Technology
+CMA, Centro de Matemática e Aplicações, NOVA School of Science and Technology
